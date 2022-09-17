@@ -10,7 +10,24 @@
 - Cooking
   - [ ] Stove
     - [ ] Fuel
-  - [ ] Utensils
+  - [ ] Frying Pan
+  - [ ] Pot
+  - [ ] Kettle
+  - [ ] Coffee making
+  - [ ] Kitchen Knife
+  - [ ] Cutting Board
+  - [ ] Spatula
+  - [ ] Cutlery
+  - [ ] Plates
+  - [ ] Drinkware
+  - [ ] Copper scrubbing pads
+  - [ ] Soap
+  - [ ] Paper towels
+  - [ ] Salt
+  - [ ] Pepper
+  - [ ] Spices
+  - [ ] Olive Oil
+  - [ ] Cooking Spray
 
 
 ### Radio Gear
